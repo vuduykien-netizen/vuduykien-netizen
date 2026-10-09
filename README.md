@@ -1,30 +1,30 @@
-# Xin chào, tôi là Vũ Duy Kiên
+# Hi, I'm Vu Duy Kien
 
-**TS.BS. · Nghiên cứu khoa học ngành Y · AI ứng dụng trong nghiên cứu**
+**MD, PhD · Medical Research · AI for Research**
 
-Tôi giúp cán bộ y tế thiết kế nghiên cứu, phân tích số liệu và viết báo cáo khoa học. Tôi xây dựng công cụ và chia sẻ hướng dẫn để bạn đi từ câu hỏi nghiên cứu đến kết quả có thể kiểm chứng.
+I help healthcare professionals design studies, analyze data, and write scientific reports. I build tools and share practical guides to help you turn research questions into verifiable results.
 
 [Website](https://www.vuduykien.com/) · [YouTube](https://www.youtube.com/drkien) · [Facebook](https://www.facebook.com/tsbsvuduykien)
 
-### Công cụ & tài nguyên
+### Tools & Resources
 
-| Dự án | Giúp bạn làm gì? |
+| Project | What it helps you do |
 | --- | --- |
-| [Tìm kiếm & tổng quan tài liệu](https://tongquan.vuduykien.com/) | Xây dựng câu hỏi PICO, tìm tài liệu PubMed và hỗ trợ tổng hợp tài liệu có trích dẫn. |
-| [ScholarPrompt](https://scholarprompt.com/) | Tham khảo prompt AI phục vụ công việc nghiên cứu khoa học. |
-| [135 đề tài nghiên cứu khoa học ngành Y](https://135.vuduykien.com/) | Tham khảo ý tưởng đề tài, đối tượng, thiết kế và biến số nghiên cứu. |
-| [Khóa học nghiên cứu khoa học](https://khoahoc.vuduykien.com/) | Học cách thiết kế nghiên cứu, phân tích số liệu và viết báo cáo khoa học. |
+| [Literature Search & Review](https://tongquan.vuduykien.com/) | Frame PICO questions, search PubMed, and synthesize literature with citations. |
+| [ScholarPrompt](https://scholarprompt.com/) | Explore AI prompts for scientific research workflows. |
+| [135 Medical Research Topics](https://135.vuduykien.com/) | Explore research ideas, study populations, designs, and variables. |
+| [Medical Research Courses](https://khoahoc.vuduykien.com/) | Learn study design, data analysis, and scientific report writing. |
 
-### Dự án mã nguồn mở
+### Open Source
 
-| Dự án | Mô tả |
+| Project | Description |
 | --- | --- |
-| [Biomedical API Toolkit](https://github.com/vuduykien-netizen/biomedical-api-toolkit) | Agent skill hỗ trợ tìm tài liệu y sinh, kiểm tra trích dẫn và truy xuất dữ liệu nghiên cứu công khai qua API. |
+| [Biomedical API Toolkit](https://github.com/vuduykien-netizen/biomedical-api-toolkit) | An agent skill for biomedical literature discovery, citation verification, and public research data access through APIs. |
 
-### Tôi tập trung vào
+### What I Work On
 
-- **Phương pháp nghiên cứu:** câu hỏi nghiên cứu, thiết kế, đề cương và quản lý dữ liệu.
-- **Phân tích số liệu:** quy trình rõ ràng, có thể kiểm tra và tái lập.
-- **AI cho nghiên cứu:** hỗ trợ tìm kiếm, đọc và viết, đi kèm kiểm chứng nguồn.
+- **Research methods:** research questions, study design, protocols, and data management.
+- **Data analysis:** transparent, verifiable, and reproducible workflows.
+- **AI for research:** tools for searching, reading, and writing, with source verification built in.
 
-*Kết nối để trao đổi về nghiên cứu khoa học ngành Y và công cụ hỗ trợ nghiên cứu.*
+*Let's connect to discuss medical research and tools that make research easier.*
