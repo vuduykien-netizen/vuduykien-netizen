@@ -22,6 +22,8 @@ I help healthcare professionals design studies, analyze data, and write scientif
 | [Biomedical API Toolkit](https://github.com/vuduykien-netizen/biomedical-api-toolkit) | An agent skill for biomedical literature discovery, citation verification, and public research data access through APIs. |
 | [Kien's Skills](https://github.com/vuduykien-netizen/kiens-skills) | Reusable Codex skills, including a workflow for generating synthetic research data from SPSS, Stata, or R metadata. |
 
+New to Biomedical API Toolkit? Start with the [English beginner guide](https://github.com/vuduykien-netizen/biomedical-api-toolkit/blob/main/docs/getting-started.md) or [hướng dẫn tiếng Việt](https://github.com/vuduykien-netizen/biomedical-api-toolkit/blob/main/docs/getting-started.vi.md). Learn what it does, how to install it, and how to run your first research task.
+
 ### What I Work On
 
 - **Research methods:** research questions, study design, protocols, and data management.
