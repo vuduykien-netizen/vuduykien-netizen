@@ -6,11 +6,11 @@ I help healthcare professionals design studies, analyze data, and write scientif
 
 [Website](https://www.vuduykien.com/) · [YouTube](https://www.youtube.com/drkien) · [Facebook](https://www.facebook.com/tsbsvuduykien)
 
-### Tools & Resources
+### Projects & Resources
 
 | Project | What it helps you do |
 | --- | --- |
-| [Literature Search & Review](https://tongquan.vuduykien.com/) | Frame PICO questions, search PubMed, and synthesize literature with citations. |
+| [Tongquan — Literature Search & Review](https://tongquan.vuduykien.com/) | Frame PICO questions, search PubMed, and synthesize literature with citations. |
 | [ScholarPrompt](https://scholarprompt.com/) | Explore AI prompts for scientific research workflows. |
 | [135 Medical Research Topics](https://135.vuduykien.com/) | Explore research ideas, study populations, designs, and variables. |
 | [Medical Research Courses](https://khoahoc.vuduykien.com/) | Learn study design, data analysis, and scientific report writing. |
